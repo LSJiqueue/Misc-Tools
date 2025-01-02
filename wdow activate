@@ -1,2 +1,6 @@
-wdow activate
-https://gofile.io/d/sNRrmU
+wdow activate 
+
+run in windows powershell 
+irm https://get.activated.win | iex 
+
+press 1
